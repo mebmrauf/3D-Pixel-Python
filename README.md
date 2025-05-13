@@ -107,6 +107,8 @@ Inspired by the classic Nokia Snake game and extended into 3D using PyOpenGL.
 
 ## 👥 Contributors
 
-- **Rauf & Team**
+- B M Rauf
+- Shahed Ahmed
+- Sadman Sakib
 
 ---
